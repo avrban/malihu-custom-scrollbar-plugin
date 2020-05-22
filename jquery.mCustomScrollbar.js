@@ -1,6 +1,6 @@
 /*
 == malihu jquery custom scrollbar plugin == 
-Version: 3.1.5 
+Version: 3.1.7
 Plugin URI: http://manos.malihu.gr/jquery-custom-content-scroller 
 Author: malihu
 Author URI: http://manos.malihu.gr
